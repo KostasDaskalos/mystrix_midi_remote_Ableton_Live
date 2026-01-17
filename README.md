@@ -56,7 +56,7 @@ Thats it! If you need help modifying anything feel free to ask!
 
 The color of the pads that control the clips is following ....a bit loosely the color of the tracks in Ableton Live. I will try to refine the palette to better match these in Live.
 
-When you move the red box the pads on the Mystrix reflect the changes and are always shoing *only* the clips that are actualy inside the red box in Live.
+When you move the red box the pads on the Mystrix reflect the changes and are always showing *only* the clips that are actualy inside the red box in Live.
 
 I know there are unsuded pads but they are for future use.
 
